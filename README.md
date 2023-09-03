@@ -10,7 +10,7 @@
 ### Install shelljs --cli
     npm install shelljs --cli
 ### Download script
-    cd && wget -O autodelegate_nibiru.js https://raw.githubusercontent.com/muhaylosemenyuk/autodelegate_nibiru/main/autodelegate_nibiru.js
+    cd && wget -O autodelegate_nibiru.js https://raw.githubusercontent.com/ERNcrypto/cosmos/main/autodelegate_nibiru.js
 ### Edit the file
     nano ~/autodelegate_nibiru.js
 
