@@ -3,7 +3,7 @@
 
 ### Install screen
     apt-get install screen
-    curl -s https://raw.githubusercontent.com/muhaylosemenyuk/autodelegate_nibiru/main/prepare-nodejs.sh | bash
+    curl -s https://raw.githubusercontent.com/ERNcrypto/cosmos/main/prepare-nodejs.sh | bash
 ### Install NodeJs
     curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
     sudo apt-get install -y nodejs
